@@ -1,0 +1,57 @@
+/* {
+    border: 1px solid red !important;
+*/
+body {
+   font-family: 'Titillium Web', sans-serif;
+   color: rgba(36, 38, 43, 0.65);
+   font-weight: 600;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.name {
+    font-size: 2.5em;
+    color: #c04700;
+    letter-spacing: 8px;
+    margin: 5% 0 0 80px;
+}
+
+.title {
+    margin-top: 0;
+
+}
+
+.logo {
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+.gradient {
+
+    border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.center-img {
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+.big-image {
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+.footer {
+    height: 100px;
+    text-align: center;
+}
+
